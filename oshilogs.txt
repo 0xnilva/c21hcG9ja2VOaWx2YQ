@@ -12,73 +12,74 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nilva =====
-[1]Nilva       |13:57:56 | 13-10-2026| login OK @nilvalarasati | score=1100 rank=5532
-[1]Nilva       |13:57:56 | 13-10-2026| serverTime=2026-10-13T13:57:56.000Z local=2026-10-13T13:57:56.275Z
+[1]Nilva       |11:34:46 | 14-10-2026| login OK @nilvalarasati | score=1140 rank=5440
+[1]Nilva       |11:34:46 | 14-10-2026| serverTime=2026-10-14T11:34:46.000Z local=2026-10-14T11:34:46.712Z
 --> [1]Nilva menjalankan: Claim Daily
-[1]Nilva       |13:57:57 | 13-10-2026| daily: sudah klaim (already=true) score=1100
---> [1]Nilva menjalankan: Auto All Tasks (4 pending)
-[1]Nilva       |13:58:00 | 13-10-2026| [1/4] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nilvalarasati/status/2110006692778953217
-[1]Nilva       |13:58:00 | 13-10-2026| delay 10s...
-[1]Nilva       |13:58:12 | 13-10-2026| [2/4] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nilvalarasati/status/2110006860088138518
-[1]Nilva       |13:58:12 | 13-10-2026| delay 10s...
-[1]Nilva       |13:58:24 | 13-10-2026| [3/4] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nilvalarasati/status/2110006953191580414
-[1]Nilva       |13:58:24 | 13-10-2026| delay 10s...
-[1]Nilva       |13:58:37 | 13-10-2026| [4/4] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Nilva       |13:58:37 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nilva       |13:58:39 | 13-10-2026| [1/1] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/nilvalarasati/status/2110006931285493298
+[1]Nilva       |11:34:47 | 14-10-2026| daily: OK +10 poin score=1150
+--> [1]Nilva menjalankan: Auto All Tasks (5 pending)
+[1]Nilva       |11:34:49 | 14-10-2026| [1/5] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nilvalarasati/status/2110332874322613744
+[1]Nilva       |11:34:49 | 14-10-2026| delay 10s...
+[1]Nilva       |11:35:01 | 14-10-2026| [2/5] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nilvalarasati/status/2110333208245964007
+[1]Nilva       |11:35:01 | 14-10-2026| delay 10s...
+[1]Nilva       |11:35:14 | 14-10-2026| [3/5] 8dd1f57c (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Nilva       |11:35:14 | 14-10-2026| delay 10s...
+[1]Nilva       |11:35:25 | 14-10-2026| [4/5] 039113e7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nilvalarasati/status/2110333027415298551
+[1]Nilva       |11:35:25 | 14-10-2026| delay 10s...
+[1]Nilva       |11:35:38 | 14-10-2026| [5/5] b3500764 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/nilvalarasati/status/2110333328186574614
+[1]Nilva       |11:35:38 | 14-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nilva       |11:35:39 | 14-10-2026| [1/1] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/nilvalarasati/status/2110333206998297882
 --> [1]Nilva menjalankan: Watch Anime
-[1]Nilva       |13:58:39 | 13-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Nilva       |13:58:39 | 13-10-2026| watch [1/3] farming oshi-captains-hat...
+[1]Nilva       |11:35:40 | 14-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Nilva       |11:35:40 | 14-10-2026| watch [1/3] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Nilva       |13:58:41 | 13-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nilva       |13:58:46 | 13-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Nilva       |13:58:49 | 13-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nilva       |13:58:54 | 13-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Nilva       |13:58:55 | 13-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nilva       |11:35:46 | 14-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nilva       |11:35:51 | 14-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Nilva       |11:35:53 | 14-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nilva       |11:35:58 | 14-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Nilva       |11:36:00 | 14-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Nilva menjalankan: Read Article
-[1]Nilva       |13:58:57 | 13-10-2026| news: 24/24 artikel selesai dibaca
-[1]Nilva       |13:58:58 | 13-10-2026| mint eligibility: {"userId":"1708256994870853632","youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true,"attemptedAt":null,"chann
-[1]Nilva       |13:58:58 | 13-10-2026| news: semua artikel sudah dibaca
+[1]Nilva       |11:36:01 | 14-10-2026| news: 24/25 artikel selesai dibaca
+[1]Nilva       |11:36:02 | 14-10-2026| mint eligibility: {"userId":"1708256994870853632","youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticReady":true,"attemptedAt":null,"chann
+[1]Nilva       |11:36:08 | 14-10-2026| news [1/1] 5c5bca9d-4991-4e23-918b-9b13cd2245c8: OK completed=25
 --> [1]Nilva menjalankan: Quiz Anime
-[1]Nilva       |13:58:59 | 13-10-2026| quiz ep1: sudah dijawab
-[1]Nilva       |13:58:59 | 13-10-2026| quiz ep2: sudah dijawab
-[1]Nilva       |13:58:59 | 13-10-2026| quiz ep3: sudah dijawab
-[1]Nilva       |13:58:59 | 13-10-2026| quiz ep4: sudah dijawab
-[1]Nilva       |13:58:59 | 13-10-2026| quiz ep5: sudah dijawab
-[1]Nilva       |13:58:59 | 13-10-2026| quiz ep6: sudah dijawab
+[1]Nilva       |11:36:11 | 14-10-2026| quiz ep1: sudah dijawab
+[1]Nilva       |11:36:11 | 14-10-2026| quiz ep2: sudah dijawab
+[1]Nilva       |11:36:11 | 14-10-2026| quiz ep3: sudah dijawab
+[1]Nilva       |11:36:11 | 14-10-2026| quiz ep4: sudah dijawab
+[1]Nilva       |11:36:11 | 14-10-2026| quiz ep5: sudah dijawab
+[1]Nilva       |11:36:11 | 14-10-2026| quiz ep6: sudah dijawab
 --> [1]Nilva menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nilva       |13:59:01 | 13-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nilva       |13:59:02 | 13-10-2026| mission music-listens-10: sudah diklaim
-[1]Nilva       |13:59:02 | 13-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nilva       |13:59:02 | 13-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nilva       |11:36:13 | 14-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nilva       |11:36:14 | 14-10-2026| mission music-listens-10: sudah diklaim
+[1]Nilva       |11:36:14 | 14-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nilva       |11:36:14 | 14-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nilva menjalankan: Claim Missions
-[1]Nilva       |13:59:02 | 13-10-2026| mission music-listens-10: sudah diklaim
-[1]Nilva       |13:59:02 | 13-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nilva       |13:59:02 | 13-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nilva       |11:36:14 | 14-10-2026| mission music-listens-10: sudah diklaim
+[1]Nilva       |11:36:14 | 14-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nilva       |11:36:14 | 14-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nilva menjalankan: Check Eligibility
 
 --- eligibility [1]Nilva ---
-  @nilvalarasati | score=1100 rank=5532
-  tasks    [###################-] 74/78
+  @nilvalarasati | score=1140 rank=5440
+  tasks    [###################-] 75/80
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
   watch    [####################] 18/17
   music    [####################] 11/11
-  artikel  [####################] 24/24
+  artikel  [####################] 25/25
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nilva menjalankan: Read Manga
-[1]Nilva       |13:59:09 | 13-10-2026| manga: 0/13 chapter belum completed
+[1]Nilva       |11:36:18 | 14-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nilva menjalankan: Get Gift
-[1]Nilva       |13:59:09 | 13-10-2026| gift: 1/4 belum diterima
-[1]Nilva       |13:59:12 | 13-10-2026| gift [1/1] Silver Oshii: OK
+[1]Nilva       |11:36:19 | 14-10-2026| gift: 0/4 belum diterima
 --> [1]Nilva menjalankan: Setup Profile
-[1]Nilva       |13:59:16 | 13-10-2026| profile: bio="https://x.com/nilvalarasati" fav=oshi rewardAt=1791685648
-[1]Nilva       |13:59:16 | 13-10-2026| profile: bonus sudah diklaim, skip
+[1]Nilva       |11:36:19 | 14-10-2026| profile: bio="https://x.com/nilvalarasati" fav=oshi rewardAt=1791685648
+[1]Nilva       |11:36:19 | 14-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nilva menjalankan: Bind Wallet
-[1]Nilva       |13:59:16 | 13-10-2026| wallet: sudah terikat 9pjB9QHaup... (solana)
+[1]Nilva       |11:36:20 | 14-10-2026| wallet: sudah terikat 9pjB9QHaup... (solana)
 
 == RINGKASAN ==
-- Nilva: daily=already | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/4 diterima | profile - | wallet bound | mint req=false open=false
+- Nilva: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
